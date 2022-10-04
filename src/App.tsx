@@ -12,11 +12,7 @@ function App() {
   return (
     <div className={styles.wrapper}>
       <Header />
-
-      <main className={styles.main}>
-        <NewTask />
-        <TasksList />
-      </main>
+      <TasksList />
     </div>
   )
 }

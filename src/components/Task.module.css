@@ -15,7 +15,12 @@
   font-size: 0.875rem;
   width: 90%;
   line-height: 140%;
-  color: var(--gray-100);
+  /* color: var(--gray-100); */
+}
+
+.descriptionChecked {
+  color: var(--gray-300);
+  text-decoration-line: line-through;
 }
 
 .check {
@@ -40,4 +45,15 @@
 
 .checked:hover {
   cursor: pointer;
+}
+
+.icon {
+  cursor: pointer;
+  color: #808080;
+
+  transition: color 0.5s;
+}
+
+.icon:hover {
+  color: #f75a68;
 }
