@@ -2,7 +2,7 @@
 
 ## :memo: Descrição
 
-A aplicação tem a função de organizar suas tarefas, que muitas vezes acaba se mi
+A aplicação tem a função de organizar suas tarefas, fazendo com que você seja muito mais produtivo.
 
 Este projeto foi desenvolvido para o desafio <b>Praticando Conceitos do ReactJS</b> do curso <b>Ignite</b> da <b><a href="https://github.com/rocketseat-education">Rocketseat</a></b>.
 
